@@ -1,4 +1,4 @@
-package Task4;
+package HW4.Task1;
 
 public class Writer {
     private String name;

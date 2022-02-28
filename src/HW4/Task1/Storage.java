@@ -1,4 +1,6 @@
-package Task4;
+package HW4.Task1;
+
+import HW4.Task1.Book;
 
 import java.util.Arrays;
 

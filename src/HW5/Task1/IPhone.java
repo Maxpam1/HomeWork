@@ -1,4 +1,4 @@
-package Task5;
+package HW5.Task1;
 
 import java.util.Objects;
 
